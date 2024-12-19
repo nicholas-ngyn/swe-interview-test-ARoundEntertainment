@@ -1,11 +1,21 @@
-# SWE INTERVIEW TEST 
-THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
+# Setup/Launch
 
-1. Clone this repo to your local machine.
-2. Read `Assignment Requirements` carefully and follow it.
-4. Please commit your entire code to `your own Github repository` 
-5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
-6. Share your repo link with us via email.
+## Installation:
+### Backend:
+1.) npm install cors  
+2.) npm install dotenv  
+3.) npm install express  
 
-HAPPY CODING! </br>
-A Round Entertainment
+### Frontend:
+1.) npm install @mui/material  
+2.) npm install @mui/icons-material  
+3.) npm install axios
+
+
+## How To Launch:
+1.) First `cd` into the `backend directory`  
+2.) Type `node index.js` and this should start up the backend  
+3.) Next create a new terminal  
+4.) `cd` into the `frontend directory`  
+5.) Type `npm start` and this should start up the frontend  
+6.) Open up the link from `npm start` and the application should be there
